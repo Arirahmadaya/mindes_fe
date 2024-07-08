@@ -121,11 +121,11 @@ export default function NavbarUser() {
         />
         <NavbarBrand className="flex">
           <div className="lg:w-10 mr-2 w-8 ">
-            <Image 
-            src="/public/logo/logo_light.png" 
-            alt="logo" 
-            className="w-full h-full" />
-            
+            <Image
+              src="/logo/logo_light.png"
+              alt="logo"
+              className="w-full h-full"
+            />
           </div>
 
           <div className="text-[#D4E9FA] hover:text-[#BBDEFB] ">
